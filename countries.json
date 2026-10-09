@@ -1,0 +1,1862 @@
+[
+  {
+    "code": "CZ",
+    "iso": {
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "numeric": "203"
+    },
+    "display": {
+      "name_en": "Czech Republic",
+      "nativeName": "Česko",
+      "slug": "czech-republic"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Central Europe",
+      "center": { "lat": 49.8175, "lng": 15.4730 },
+      "bbox": {
+        "minLat": 48.55,
+        "maxLat": 51.06,
+        "minLng": 12.09,
+        "maxLng": 18.86
+      }
+    },
+    "search": {
+      "aliases": [
+        "ceska republika",
+        "czech republic",
+        "czechia",
+        "czech",
+        "cesko",
+        "cr",
+        "cz",
+        "bohemia",
+        "moravia",
+        "czech rep",
+        "czech r",
+        "czech lands",
+        "republic of czechia",
+        "via ferraty cesko",
+        "ferraty v cesku"
+      ]
+    },
+    "meta": {
+      "languages": ["cs", "sk"],
+      "timezone": "Europe/Prague",
+      "capital": "Prague"
+    }
+  },
+
+  {
+    "code": "SK",
+    "iso": {
+      "alpha2": "SK",
+      "alpha3": "SVK",
+      "numeric": "703"
+    },
+    "display": {
+      "name_en": "Slovakia",
+      "nativeName": "Slovensko",
+      "slug": "slovakia"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Carpathians",
+      "center": { "lat": 48.6690, "lng": 19.6990 },
+      "bbox": {
+        "minLat": 47.73,
+        "maxLat": 49.60,
+        "minLng": 16.84,
+        "maxLng": 22.56
+      }
+    },
+    "search": {
+      "aliases": [
+        "slovensko",
+        "slovakia",
+        "slovak republic",
+        "slovenska republika",
+        "sk",
+        "tatry",
+        "high tatras",
+        "slovak tatras",
+        "via ferrata slovakia",
+        "via ferraty slovensko",
+        "ferraty slovensko",
+        "slovak mountains",
+        "carpathians slovakia",
+        "slovak republic eu",
+        "slovak country"
+      ]
+    },
+    "meta": {
+      "languages": ["sk"],
+      "timezone": "Europe/Bratislava",
+      "capital": "Bratislava"
+    }
+  },
+
+  {
+    "code": "AT",
+    "iso": {
+      "alpha2": "AT",
+      "alpha3": "AUT",
+      "numeric": "040"
+    },
+    "display": {
+      "name_en": "Austria",
+      "nativeName": "Österreich",
+      "slug": "austria"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Alps",
+      "center": { "lat": 47.5162, "lng": 14.5501 },
+      "bbox": {
+        "minLat": 46.37,
+        "maxLat": 49.02,
+        "minLng": 9.53,
+        "maxLng": 17.16
+      }
+    },
+    "search": {
+      "aliases": [
+        "austria",
+        "osterreich",
+        "rakousko",
+        "at",
+        "klettersteig",
+        "klettersteige",
+        "austrian alps",
+        "alpen austria",
+        "via ferrata austria",
+        "ferrata austria",
+        "via ferrata osterreich",
+        "austrian mountains",
+        "rakouske alpy",
+        "ferraty rakousko",
+        "via ferraty rakousko"
+      ]
+    },
+    "meta": {
+      "languages": ["de"],
+      "timezone": "Europe/Vienna",
+      "capital": "Vienna"
+    }
+  },
+
+  {
+    "code": "IT",
+    "iso": {
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "numeric": "380"
+    },
+    "display": {
+      "name_en": "Italy",
+      "nativeName": "Italia",
+      "slug": "italy"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Alps",
+      "center": { "lat": 41.8719, "lng": 12.5674 },
+      "bbox": {
+        "minLat": 36.62,
+        "maxLat": 47.10,
+        "minLng": 6.63,
+        "maxLng": 18.52
+      }
+    },
+    "search": {
+      "aliases": [
+        "italy",
+        "italia",
+        "it",
+        "dolomites",
+        "dolomiti",
+        "via ferrata italy",
+        "ferrata italy",
+        "vie ferrate",
+        "via ferrata dolomites",
+        "dolomite ferrata",
+        "italian alps",
+        "ferrate italia",
+        "italian mountains",
+        "italske ferraty",
+        "ferraty italie"
+      ]
+    },
+    "meta": {
+      "languages": ["it"],
+      "timezone": "Europe/Rome",
+      "capital": "Rome"
+    }
+  },
+
+  {
+    "code": "SI",
+    "iso": {
+      "alpha2": "SI",
+      "alpha3": "SVN",
+      "numeric": "705"
+    },
+    "display": {
+      "name_en": "Slovenia",
+      "nativeName": "Slovenija",
+      "slug": "slovenia"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Alps",
+      "center": { "lat": 46.1512, "lng": 14.9955 },
+      "bbox": {
+        "minLat": 45.42,
+        "maxLat": 47.05,
+        "minLng": 13.38,
+        "maxLng": 16.61
+      }
+    },
+    "search": {
+      "aliases": [
+        "slovenia",
+        "slovenija",
+        "si",
+        "julian alps",
+        "soča valley",
+        "via ferrata slovenia",
+        "ferrata slovenia",
+        "klettersteig slovenia",
+        "slovenian alps",
+        "ferraty slovinsko",
+        "slovinske ferraty",
+        "slovene mountains",
+        "slovenian mountains",
+        "via ferrata julian alps",
+        "slovenia ferraty"
+      ]
+    },
+    "meta": {
+      "languages": ["sl"],
+      "timezone": "Europe/Ljubljana",
+      "capital": "Ljubljana"
+    }
+  },
+
+  {
+    "code": "DE",
+    "iso": {
+      "alpha2": "DE",
+      "alpha3": "DEU",
+      "numeric": "276"
+    },
+    "display": {
+      "name_en": "Germany",
+      "nativeName": "Deutschland",
+      "slug": "germany"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Central Europe",
+      "center": { "lat": 51.1657, "lng": 10.4515 },
+      "bbox": {
+        "minLat": 47.27,
+        "maxLat": 55.06,
+        "minLng": 5.87,
+        "maxLng": 15.04
+      }
+    },
+    "search": {
+      "aliases": [
+        "germany",
+        "deutschland",
+        "de",
+        "bavaria",
+        "bavarian alps",
+        "klettersteig",
+        "via ferrata germany",
+        "ferrata germany",
+        "german mountains",
+        "alpen germany",
+        "nemecko",
+        "nemecke alpy",
+        "via ferraty nemecko",
+        "ferraty nemecko",
+        "german alps"
+      ]
+    },
+    "meta": {
+      "languages": ["de"],
+      "timezone": "Europe/Berlin",
+      "capital": "Berlin"
+    }
+  },
+
+  {
+    "code": "CH",
+    "iso": {
+      "alpha2": "CH",
+      "alpha3": "CHE",
+      "numeric": "756"
+    },
+    "display": {
+      "name_en": "Switzerland",
+      "nativeName": "Schweiz",
+      "slug": "switzerland"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Alps",
+      "center": { "lat": 46.8182, "lng": 8.2275 },
+      "bbox": {
+        "minLat": 45.82,
+        "maxLat": 47.81,
+        "minLng": 5.96,
+        "maxLng": 10.49
+      }
+    },
+    "search": {
+      "aliases": [
+        "switzerland",
+        "schweiz",
+        "suisse",
+        "svizzera",
+        "ch",
+        "swiss alps",
+        "via ferrata switzerland",
+        "ferrata switzerland",
+        "klettersteig switzerland",
+        "swiss mountains",
+        "svycarsko",
+        "svycarske alpy",
+        "via ferraty svycarsko",
+        "ferraty svycarsko",
+        "svycarske ferraty"
+      ]
+    },
+    "meta": {
+      "languages": ["de", "fr", "it", "rm"],
+      "timezone": "Europe/Zurich",
+      "capital": "Bern"
+    }
+  },
+
+  {
+    "code": "FR",
+    "iso": {
+      "alpha2": "FR",
+      "alpha3": "FRA",
+      "numeric": "250"
+    },
+    "display": {
+      "name_en": "France",
+      "nativeName": "France",
+      "slug": "france"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Western Europe",
+      "center": { "lat": 46.2276, "lng": 2.2137 },
+      "bbox": {
+        "minLat": 41.36,
+        "maxLat": 51.09,
+        "minLng": -5.14,
+        "maxLng": 9.56
+      }
+    },
+    "search": {
+      "aliases": [
+        "france",
+        "fr",
+        "french alps",
+        "alpes",
+        "alps france",
+        "via ferrata france",
+        "ferrata france",
+        "via ferrata french alps",
+        "verdon",
+        "mont blanc region",
+        "french mountains",
+        "francie",
+        "francouzske alpy",
+        "via ferraty francie",
+        "ferraty francie"
+      ]
+    },
+    "meta": {
+      "languages": ["fr"],
+      "timezone": "Europe/Paris",
+      "capital": "Paris"
+    }
+  },
+
+  {
+    "code": "ES",
+    "iso": {
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "numeric": "724"
+    },
+    "display": {
+      "name_en": "Spain",
+      "nativeName": "España",
+      "slug": "spain"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "center": { "lat": 40.4637, "lng": -3.7492 },
+      "bbox": {
+        "minLat": 27.64,
+        "maxLat": 43.79,
+        "minLng": -18.16,
+        "maxLng": 4.33
+      }
+    },
+    "search": {
+      "aliases": [
+        "spain",
+        "espana",
+        "es",
+        "spanish mountains",
+        "via ferrata spain",
+        "ferrata spain",
+        "caminito del rey",
+        "spanish alps",
+        "pyrenees",
+        "via ferrata pyrenees",
+        "spanelsko",
+        "spanelske hory",
+        "via ferraty spanelsko",
+        "ferraty spanelsko",
+        "spanish ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["es"],
+      "timezone": "Europe/Madrid",
+      "capital": "Madrid"
+    }
+  },
+
+  {
+    "code": "PL",
+    "iso": {
+      "alpha2": "PL",
+      "alpha3": "POL",
+      "numeric": "616"
+    },
+    "display": {
+      "name_en": "Poland",
+      "nativeName": "Polska",
+      "slug": "poland"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Central Europe",
+      "center": { "lat": 51.9194, "lng": 19.1451 },
+      "bbox": {
+        "minLat": 49.00,
+        "maxLat": 54.84,
+        "minLng": 14.12,
+        "maxLng": 24.15
+      }
+    },
+    "search": {
+      "aliases": [
+        "poland",
+        "polska",
+        "pl",
+        "polish mountains",
+        "tatry",
+        "tatra mountains",
+        "via ferrata poland",
+        "ferrata poland",
+        "klettersteig poland",
+        "polish tatras",
+        "polsko",
+        "polske hory",
+        "via ferraty polsko",
+        "ferraty polsko",
+        "polish alps"
+      ]
+    },
+    "meta": {
+      "languages": ["pl"],
+      "timezone": "Europe/Warsaw",
+      "capital": "Warsaw"
+    }
+  },
+
+  {
+    "code": "HR",
+    "iso": {
+      "alpha2": "HR",
+      "alpha3": "HRV",
+      "numeric": "191"
+    },
+    "display": {
+      "name_en": "Croatia",
+      "nativeName": "Hrvatska",
+      "slug": "croatia"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 45.1, "lng": 15.2 },
+      "bbox": {
+        "minLat": 42.39,
+        "maxLat": 46.55,
+        "minLng": 13.50,
+        "maxLng": 19.43
+      }
+    },
+    "search": {
+      "aliases": [
+        "croatia",
+        "hrvatska",
+        "hr",
+        "dalmatia",
+        "via ferrata croatia",
+        "ferrata croatia",
+        "croatian mountains",
+        "vaganski vrh",
+        "paklenica",
+        "via ferrata paklenica",
+        "chorvatsko",
+        "chorvatske hory",
+        "via ferraty chorvatsko",
+        "ferraty chorvatsko",
+        "croatian alps"
+      ]
+    },
+    "meta": {
+      "languages": ["hr"],
+      "timezone": "Europe/Zagreb",
+      "capital": "Zagreb"
+    }
+  },
+
+  {
+    "code": "HU",
+    "iso": {
+      "alpha2": "HU",
+      "alpha3": "HUN",
+      "numeric": "348"
+    },
+    "display": {
+      "name_en": "Hungary",
+      "nativeName": "Magyarország",
+      "slug": "hungary"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Central Europe",
+      "center": { "lat": 47.16, "lng": 19.50 },
+      "bbox": {
+        "minLat": 45.74,
+        "maxLat": 48.59,
+        "minLng": 16.11,
+        "maxLng": 22.90
+      }
+    },
+    "search": {
+      "aliases": [
+        "hungary",
+        "magyarország",
+        "hungary",
+        "hu",
+        "hungarian mountains",
+        "via ferrata hungary",
+        "ferrata hungary",
+        "via ferrata maďarsko",
+        "ferraty maďarsko",
+        "maďarsko",
+        "maďarské hory",
+        "via ferrata magyarország",
+        "ferrata magyarország",
+        "hungarian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["hu"],
+      "timezone": "Europe/Budapest",
+      "capital": "Budapest"
+    }
+  },
+
+  {
+    "code": "NO",
+    "iso": {
+      "alpha2": "NO",
+      "alpha3": "NOR",
+      "numeric": "578"
+    },
+    "display": {
+      "name_en": "Norway",
+      "nativeName": "Norge",
+      "slug": "norway"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 60.47, "lng": 8.47 },
+      "bbox": {
+        "minLat": 57.96,
+        "maxLat": 71.19,
+        "minLng": 4.65,
+        "maxLng": 31.08
+      }
+    },
+    "search": {
+      "aliases": [
+        "norway",
+        "norge",
+        "norway",
+        "no",
+        "norwegian mountains",
+        "via ferrata norway",
+        "ferrata norway",
+        "via ferrata norsko",
+        "ferraty norsko",
+        "norsko",
+        "norské hory",
+        "via ferrata norge",
+        "ferrata norge",
+        "norwegian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["no", "nb", "nn"],
+      "timezone": "Europe/Oslo",
+      "capital": "Oslo"
+    }
+  },
+  {
+    "code": "SE",
+    "iso": {
+      "alpha2": "SE",
+      "alpha3": "SWE",
+      "numeric": "752"
+    },
+    "display": {
+      "name_en": "Sweden",
+      "nativeName": "Sverige",
+      "slug": "sweden"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 62.00, "lng": 15.00 },
+      "bbox": {
+        "minLat": 55.34,
+        "maxLat": 69.06,
+        "minLng": 11.11,
+        "maxLng": 24.17
+      }
+    },
+    "search": {
+      "aliases": [
+        "sweden",
+        "sverige",
+        "sweden",
+        "se",
+        "swedish mountains",
+        "via ferrata sweden",
+        "ferrata sweden",
+        "via ferrata švédsko",
+        "ferraty švédsko",
+        "švédsko",
+        "švédské hory",
+        "via ferrata sverige",
+        "ferrata sverige",
+        "swedish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["sv"],
+      "timezone": "Europe/Stockholm",
+      "capital": "Stockholm"
+    }
+  },
+  {
+    "code": "AD",
+    "iso": {
+      "alpha2": "AD",
+      "alpha3": "AND",
+      "numeric": "020"
+    },
+    "display": {
+      "name_en": "Andorra",
+      "nativeName": "Andorra",
+      "slug": "andorra"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "center": { "lat": 42.55, "lng": 1.58 },
+      "bbox": {
+        "minLat": 42.43,
+        "maxLat": 42.66,
+        "minLng": 1.41,
+        "maxLng": 1.79
+      }
+    },
+    "search": {
+      "aliases": [
+        "andorra",
+        "andorra",
+        "andorra",
+        "ad",
+        "andorran mountains",
+        "via ferrata andorra",
+        "ferrata andorra",
+        "via ferrata andorra",
+        "ferraty andorra",
+        "andorra",
+        "andorrské hory",
+        "via ferrata andorra",
+        "ferrata andorra",
+        "andorran via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["ca"],
+      "timezone": "Europe/Andorra",
+      "capital": "Andorra la Vella"
+    }
+  },
+  {
+    "code": "BE",
+    "iso": {
+      "alpha2": "BE",
+      "alpha3": "BEL",
+      "numeric": "056"
+    },
+    "display": {
+      "name_en": "Belgium",
+      "nativeName": "België / Belgique / Belgien",
+      "slug": "belgium"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Western Europe",
+      "center": { "lat": 50.64, "lng": 4.67 },
+      "bbox": {
+        "minLat": 49.50,
+        "maxLat": 51.51,
+        "minLng": 2.54,
+        "maxLng": 6.41
+      }
+    },
+    "search": {
+      "aliases": [
+        "belgium",
+        "belgië",
+        "belgique",
+        "belgien",
+        "be",
+        "belgian mountains",
+        "via ferrata belgium",
+        "ferrata belgium",
+        "via ferrata belgie",
+        "via ferrata belgie",
+        "ferraty belgie",
+        "belgie",
+        "belgické hory",
+        "via ferrata belgique",
+        "ferrata belgique",
+        "belgian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["nl", "fr", "de"],
+      "timezone": "Europe/Brussels",
+      "capital": "Brussels"
+    }
+  },
+  {
+    "code": "GR",
+    "iso": {
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "numeric": "300"
+    },
+    "display": {
+      "name_en": "Greece",
+      "nativeName": "Ελλάδα",
+      "slug": "greece"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "center": { "lat": 39.07, "lng": 21.82 },
+      "bbox": {
+        "minLat": 34.80,
+        "maxLat": 41.75,
+        "minLng": 19.37,
+        "maxLng": 29.65
+      }
+    },
+    "search": {
+      "aliases": [
+        "greece",
+        "ελλάδα",
+        "hellas",
+        "gr",
+        "greek mountains",
+        "via ferrata greece",
+        "ferrata greece",
+        "via ferrata řecko",
+        "ferraty řecko",
+        "řecko",
+        "řecké hory",
+        "via ferrata ελλάδα",
+        "ferrata ελλάδα",
+        "greek via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["el"],
+      "timezone": "Europe/Athens",
+      "capital": "Athens"
+    }
+  },
+  {
+    "code": "GB",
+    "iso": {
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "numeric": "826"
+    },
+    "display": {
+      "name_en": "United Kingdom",
+      "nativeName": "United Kingdom",
+      "slug": "united-kingdom"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 54.70, "lng": -3.28 },
+      "bbox": {
+        "minLat": 49.96,
+        "maxLat": 58.64,
+        "minLng": -8.65,
+        "maxLng": 1.76
+      }
+    },
+    "search": {
+      "aliases": [
+        "united kingdom",
+        "great britain",
+        "uk",
+        "gb",
+        "british mountains",
+        "via ferrata united kingdom",
+        "via ferrata uk",
+        "ferrata uk",
+        "via ferrata spojené království",
+        "ferraty spojené království",
+        "spojené království",
+        "britské hory",
+        "via ferrata great britain",
+        "ferrata great britain",
+        "british via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["en"],
+      "timezone": "Europe/London",
+      "capital": "London"
+    }
+  },
+  {
+    "code": "PT",
+    "iso": {
+      "alpha2": "PT",
+      "alpha3": "PRT",
+      "numeric": "620"
+    },
+    "display": {
+      "name_en": "Portugal",
+      "nativeName": "Portugal",
+      "slug": "portugal"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "center": { "lat": 39.40, "lng": -8.22 },
+      "bbox": {
+        "minLat": 36.96,
+        "maxLat": 42.15,
+        "minLng": -9.50,
+        "maxLng": -6.19
+      }
+    },
+    "search": {
+      "aliases": [
+        "portugal",
+        "portugal",
+        "portugal",
+        "pt",
+        "portuguese mountains",
+        "via ferrata portugal",
+        "ferrata portugal",
+        "via ferrata portugalsko",
+        "ferraty portugalsko",
+        "portugalsko",
+        "portugalské hory",
+        "via ferrata portugal",
+        "ferrata portugal",
+        "portuguese via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["pt"],
+      "timezone": "Europe/Lisbon",
+      "capital": "Lisbon"
+    }
+  },
+  {
+    "code": "RO",
+    "iso": {
+      "alpha2": "RO",
+      "alpha3": "ROU",
+      "numeric": "642"
+    },
+    "display": {
+      "name_en": "Romania",
+      "nativeName": "România",
+      "slug": "romania"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Eastern Europe",
+      "center": { "lat": 45.94, "lng": 24.97 },
+      "bbox": {
+        "minLat": 43.62,
+        "maxLat": 48.27,
+        "minLng": 20.26,
+        "maxLng": 29.69
+      }
+    },
+    "search": {
+      "aliases": [
+        "romania",
+        "românia",
+        "romania",
+        "ro",
+        "romanian mountains",
+        "via ferrata romania",
+        "ferrata romania",
+        "via ferrata rumunsko",
+        "ferraty rumunsko",
+        "rumunsko",
+        "rumunské hory",
+        "via ferrata românia",
+        "ferrata românia",
+        "romanian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["ro"],
+      "timezone": "Europe/Bucharest",
+      "capital": "Bucharest"
+    }
+  },
+  {
+    "code": "BG",
+    "iso": {
+      "alpha2": "BG",
+      "alpha3": "BGR",
+      "numeric": "100"
+    },
+    "display": {
+      "name_en": "Bulgaria",
+      "nativeName": "България",
+      "slug": "bulgaria"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Eastern Europe",
+      "center": { "lat": 42.73, "lng": 25.49 },
+      "bbox": {
+        "minLat": 41.24,
+        "maxLat": 44.22,
+        "minLng": 22.36,
+        "maxLng": 28.61
+      }
+    },
+    "search": {
+      "aliases": [
+        "bulgaria",
+        "българия",
+        "bulgaria",
+        "bg",
+        "bulgarian mountains",
+        "via ferrata bulgaria",
+        "ferrata bulgaria",
+        "via ferrata bulharsko",
+        "ferraty bulharsko",
+        "bulharsko",
+        "bulharské hory",
+        "via ferrata българия",
+        "ferrata българия",
+        "bulgarian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["bg"],
+      "timezone": "Europe/Sofia",
+      "capital": "Sofia"
+    }
+  },
+  {
+    "code": "BA",
+    "iso": {
+      "alpha2": "BA",
+      "alpha3": "BIH",
+      "numeric": "070"
+    },
+    "display": {
+      "name_en": "Bosnia and Herzegovina",
+      "nativeName": "Bosna i Hercegovina",
+      "slug": "bosnia-and-herzegovina"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 43.92, "lng": 17.68 },
+      "bbox": {
+        "minLat": 42.56,
+        "maxLat": 45.28,
+        "minLng": 15.73,
+        "maxLng": 19.62
+      }
+    },
+    "search": {
+      "aliases": [
+        "bosnia and herzegovina",
+        "bosna i hercegovina",
+        "bosnia",
+        "ba",
+        "bosnian mountains",
+        "via ferrata bosnia and herzegovina",
+        "ferrata bosnia and herzegovina",
+        "via ferrata bosna a hercegovina",
+        "ferraty bosna a hercegovina",
+        "bosna a hercegovina",
+        "bosenské hory",
+        "via ferrata bosna i hercegovina",
+        "ferrata bosna i hercegovina",
+        "bosnian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["bs", "hr", "sr"],
+      "timezone": "Europe/Sarajevo",
+      "capital": "Sarajevo"
+    }
+  },
+  {
+    "code": "ME",
+    "iso": {
+      "alpha2": "ME",
+      "alpha3": "MNE",
+      "numeric": "499"
+    },
+    "display": {
+      "name_en": "Montenegro",
+      "nativeName": "Crna Gora",
+      "slug": "montenegro"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 42.71, "lng": 19.37 },
+      "bbox": {
+        "minLat": 41.85,
+        "maxLat": 43.56,
+        "minLng": 18.43,
+        "maxLng": 20.36
+      }
+    },
+    "search": {
+      "aliases": [
+        "montenegro",
+        "crna gora",
+        "montenegro",
+        "me",
+        "montenegrin mountains",
+        "via ferrata montenegro",
+        "ferrata montenegro",
+        "via ferrata černá hora",
+        "ferraty černá hora",
+        "černá hora",
+        "černohorské hory",
+        "via ferrata crna gora",
+        "ferrata crna gora",
+        "montenegrin via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["sr", "cnr"],
+      "timezone": "Europe/Podgorica",
+      "capital": "Podgorica"
+    }
+  },
+  {
+    "code": "RS",
+    "iso": {
+      "alpha2": "RS",
+      "alpha3": "SRB",
+      "numeric": "688"
+    },
+    "display": {
+      "name_en": "Serbia",
+      "nativeName": "Srbija",
+      "slug": "serbia"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 44.02, "lng": 21.01 },
+      "bbox": {
+        "minLat": 42.23,
+        "maxLat": 46.19,
+        "minLng": 18.83,
+        "maxLng": 23.01
+      }
+    },
+    "search": {
+      "aliases": [
+        "serbia",
+        "srbija",
+        "serbia",
+        "rs",
+        "serbian mountains",
+        "via ferrata serbia",
+        "ferrata serbia",
+        "via ferrata srbsko",
+        "ferraty srbsko",
+        "srbsko",
+        "srbské hory",
+        "via ferrata srbija",
+        "ferrata srbija",
+        "serbian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["sr"],
+      "timezone": "Europe/Belgrade",
+      "capital": "Belgrade"
+    }
+  },
+  {
+    "code": "MK",
+    "iso": {
+      "alpha2": "MK",
+      "alpha3": "MKD",
+      "numeric": "807"
+    },
+    "display": {
+      "name_en": "North Macedonia",
+      "nativeName": "Северна Македонија",
+      "slug": "north-macedonia"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 41.61, "lng": 21.75 },
+      "bbox": {
+        "minLat": 40.85,
+        "maxLat": 42.37,
+        "minLng": 20.45,
+        "maxLng": 23.03
+      }
+    },
+    "search": {
+      "aliases": [
+        "north macedonia",
+        "северна македонија",
+        "macedonia",
+        "mk",
+        "macedonian mountains",
+        "via ferrata north macedonia",
+        "ferrata north macedonia",
+        "via ferrata severní makedonie",
+        "ferraty severní makedonie",
+        "severní makedonie",
+        "makedonské hory",
+        "via ferrata македонија",
+        "ferrata македонија",
+        "macedonian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["mk"],
+      "timezone": "Europe/Skopje",
+      "capital": "Skopje"
+    }
+  },
+  {
+    "code": "AL",
+    "iso": {
+      "alpha2": "AL",
+      "alpha3": "ALB",
+      "numeric": "008"
+    },
+    "display": {
+      "name_en": "Albania",
+      "nativeName": "Shqipëria",
+      "slug": "albania"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 41.15, "lng": 20.17 },
+      "bbox": {
+        "minLat": 39.64,
+        "maxLat": 42.66,
+        "minLng": 19.28,
+        "maxLng": 21.06
+      }
+    },
+    "search": {
+      "aliases": [
+        "albania",
+        "shqipëria",
+        "albania",
+        "al",
+        "albanian mountains",
+        "via ferrata albania",
+        "ferrata albania",
+        "via ferrata albánie",
+        "ferraty albánie",
+        "albánie",
+        "albánské hory",
+        "via ferrata shqipëria",
+        "ferrata shqipëria",
+        "albanian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["sq"],
+      "timezone": "Europe/Tirane",
+      "capital": "Tirana"
+    }
+  },
+  {
+    "code": "LU",
+    "iso": {
+      "alpha2": "LU",
+      "alpha3": "LUX",
+      "numeric": "442"
+    },
+    "display": {
+      "name_en": "Luxembourg",
+      "nativeName": "Lëtzebuerg",
+      "slug": "luxembourg"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Western Europe",
+      "center": { "lat": 49.82, "lng": 6.13 },
+      "bbox": {
+        "minLat": 49.45,
+        "maxLat": 50.18,
+        "minLng": 5.73,
+        "maxLng": 6.53
+      }
+    },
+    "search": {
+      "aliases": [
+        "luxembourg",
+        "letzebuerg",
+        "luxemburg",
+        "lu",
+        "luxembourg mountains",
+        "via ferrata luxembourg",
+        "ferrata luxembourg",
+        "via ferrata lucembursko",
+        "ferraty lucembursko",
+        "lucembursko",
+        "lucemburské hory",
+        "via ferrata letzebuerg",
+        "ferrata letzebuerg",
+        "luxembourgish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["lb", "fr", "de"],
+      "timezone": "Europe/Luxembourg",
+      "capital": "Luxembourg City"
+    }
+  },
+  {
+    "code": "IS",
+    "iso": {
+      "alpha2": "IS",
+      "alpha3": "ISL",
+      "numeric": "352"
+    },
+    "display": {
+      "name_en": "Iceland",
+      "nativeName": "Ísland",
+      "slug": "iceland"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 64.96, "lng": -19.02 },
+      "bbox": {
+        "minLat": 63.39,
+        "maxLat": 66.53,
+        "minLng": -24.53,
+        "maxLng": -13.50
+      }
+    },
+    "search": {
+      "aliases": [
+        "iceland",
+        "ísland",
+        "island",
+        "is",
+        "icelandic mountains",
+        "via ferrata iceland",
+        "ferrata iceland",
+        "via ferrata island",
+        "ferraty island",
+        "island",
+        "islandské hory",
+        "via ferrata ísland",
+        "ferrata ísland",
+        "icelandic via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["is"],
+      "timezone": "Atlantic/Reykjavik",
+      "capital": "Reykjavik"
+    }
+  },
+  {
+    "code": "IE",
+    "iso": {
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "numeric": "372"
+    },
+    "display": {
+      "name_en": "Ireland",
+      "nativeName": "Éire",
+      "slug": "ireland"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 53.41, "lng": -8.24 },
+      "bbox": {
+        "minLat": 51.42,
+        "maxLat": 55.43,
+        "minLng": -10.67,
+        "maxLng": -5.99
+      }
+    },
+    "search": {
+      "aliases": [
+        "ireland",
+        "éire",
+        "ireland",
+        "ie",
+        "irish mountains",
+        "via ferrata ireland",
+        "ferrata ireland",
+        "via ferrata irsko",
+        "ferraty irsko",
+        "irsko",
+        "irské hory",
+        "via ferrata éire",
+        "ferrata éire",
+        "irish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["ga", "en"],
+      "timezone": "Europe/Dublin",
+      "capital": "Dublin"
+    }
+  },
+  {
+    "code": "TR",
+    "iso": {
+      "alpha2": "TR",
+      "alpha3": "TUR",
+      "numeric": "792"
+    },
+    "display": {
+      "name_en": "Turkey",
+      "nativeName": "Türkiye",
+      "slug": "turkey"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Western Asia",
+      "center": { "lat": 39.00, "lng": 35.00 },
+      "bbox": {
+        "minLat": 35.81,
+        "maxLat": 42.11,
+        "minLng": 25.67,
+        "maxLng": 44.82
+      }
+    },
+    "search": {
+      "aliases": [
+        "turkey",
+        "türkiye",
+        "turkiye",
+        "tr",
+        "turkish mountains",
+        "via ferrata turkey",
+        "ferrata turkey",
+        "via ferrata turecko",
+        "ferraty turecko",
+        "turecko",
+        "turecké hory",
+        "via ferrata türkiye",
+        "ferrata türkiye",
+        "turkish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["tr"],
+      "timezone": "Europe/Istanbul",
+      "capital": "Ankara"
+    }
+  },
+  {
+    "code": "XK",
+    "iso": {
+      "alpha2": "XK",
+      "alpha3": "XKX",
+      "numeric": null
+    },
+    "display": {
+      "name_en": "Kosovo",
+      "nativeName": "Kosova",
+      "slug": "kosovo"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "center": { "lat": 42.60, "lng": 20.90 },
+      "bbox": {
+        "minLat": 41.86,
+        "maxLat": 43.27,
+        "minLng": 20.01,
+        "maxLng": 21.79
+      }
+    },
+    "search": {
+      "aliases": [
+        "kosovo",
+        "kosova",
+        "kosovo",
+        "xk",
+        "kosovo mountains",
+        "via ferrata kosovo",
+        "ferrata kosovo",
+        "via ferrata kosovo",
+        "ferraty kosovo",
+        "kosovo",
+        "kosovské hory",
+        "via ferrata kosova",
+        "ferrata kosova",
+        "kosovan via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["sq", "sr"],
+      "timezone": "Europe/Belgrade",
+      "capital": "Pristina"
+    }
+  },
+  {
+    "code": "UA",
+    "iso": {
+      "alpha2": "UA",
+      "alpha3": "UKR",
+      "numeric": "804"
+    },
+    "display": {
+      "name_en": "Ukraine",
+      "nativeName": "Україна",
+      "slug": "ukraine"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Eastern Europe",
+      "center": { "lat": 48.38, "lng": 31.17 },
+      "bbox": {
+        "minLat": 44.39,
+        "maxLat": 52.38,
+        "minLng": 22.13,
+        "maxLng": 40.22
+      }
+    },
+    "search": {
+      "aliases": [
+        "ukraine",
+        "україна",
+        "ukraina",
+        "ua",
+        "ukrainian mountains",
+        "via ferrata ukraine",
+        "ferrata ukraine",
+        "via ferrata ukrajina",
+        "ferraty ukrajina",
+        "ukrajina",
+        "ukrajinské hory",
+        "via ferrata україна",
+        "ferrata україна",
+        "ukrainian via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["uk"],
+      "timezone": "Europe/Kyiv",
+      "capital": "Kyiv"
+    }
+  },
+  {
+    "code": "MD",
+    "iso": {
+      "alpha2": "MD",
+      "alpha3": "MDA",
+      "numeric": "498"
+    },
+    "display": {
+      "name_en": "Moldova",
+      "nativeName": "Republica Moldova",
+      "slug": "moldova"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Eastern Europe",
+      "center": { "lat": 47.01, "lng": 28.86 },
+      "bbox": {
+        "minLat": 45.47,
+        "maxLat": 48.49,
+        "minLng": 26.62,
+        "maxLng": 30.16
+      }
+    },
+    "search": {
+      "aliases": [
+        "moldova",
+        "republica moldova",
+        "republic of moldova",
+        "md",
+        "moldovan mountains",
+        "via ferrata moldova",
+        "ferrata moldova",
+        "via ferrata moldavsko",
+        "ferraty moldavsko",
+        "moldavsko",
+        "moldavské hory",
+        "via ferrata republica moldova",
+        "ferrata republica moldova",
+        "moldovan via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["ro"],
+      "timezone": "Europe/Chisinau",
+      "capital": "Chișinău"
+    }
+  },
+  {
+    "code": "NL",
+    "iso": {
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "numeric": "528"
+    },
+    "display": {
+      "name_en": "Netherlands",
+      "nativeName": "Nederland",
+      "slug": "netherlands"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Western Europe",
+      "center": { "lat": 52.13, "lng": 5.29 },
+      "bbox": {
+        "minLat": 50.75,
+        "maxLat": 53.56,
+        "minLng": 3.36,
+        "maxLng": 7.23
+      }
+    },
+    "search": {
+      "aliases": [
+        "netherlands",
+        "nederland",
+        "holland",
+        "nl",
+        "dutch mountains",
+        "via ferrata netherlands",
+        "ferrata netherlands",
+        "via ferrata nizozemsko",
+        "ferraty nizozemsko",
+        "nizozemsko",
+        "nizozemské hory",
+        "via ferrata nederland",
+        "ferrata nederland",
+        "dutch via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["nl"],
+      "timezone": "Europe/Amsterdam",
+      "capital": "Amsterdam"
+    }
+  },
+  {
+    "code": "DK",
+    "iso": {
+      "alpha2": "DK",
+      "alpha3": "DNK",
+      "numeric": "208"
+    },
+    "display": {
+      "name_en": "Denmark",
+      "nativeName": "Danmark",
+      "slug": "denmark"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 56.26, "lng": 9.50 },
+      "bbox": {
+        "minLat": 54.56,
+        "maxLat": 57.75,
+        "minLng": 8.07,
+        "maxLng": 15.16
+      }
+    },
+    "search": {
+      "aliases": [
+        "denmark",
+        "danmark",
+        "denmark",
+        "dk",
+        "danish mountains",
+        "via ferrata denmark",
+        "ferrata denmark",
+        "via ferrata dánsko",
+        "ferraty dánsko",
+        "dánsko",
+        "dánské hory",
+        "via ferrata danmark",
+        "ferrata danmark",
+        "danish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["da"],
+      "timezone": "Europe/Copenhagen",
+      "capital": "Copenhagen"
+    }
+  },
+  {
+    "code": "FI",
+    "iso": {
+      "alpha2": "FI",
+      "alpha3": "FIN",
+      "numeric": "246"
+    },
+    "display": {
+      "name_en": "Finland",
+      "nativeName": "Suomi",
+      "slug": "finland"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Northern Europe",
+      "center": { "lat": 64.00, "lng": 26.00 },
+      "bbox": {
+        "minLat": 59.81,
+        "maxLat": 70.09,
+        "minLng": 20.55,
+        "maxLng": 31.59
+      }
+    },
+    "search": {
+      "aliases": [
+        "finland",
+        "suomi",
+        "finland",
+        "fi",
+        "finnish mountains",
+        "via ferrata finland",
+        "ferrata finland",
+        "via ferrata finsko",
+        "ferraty finsko",
+        "finsko",
+        "finské hory",
+        "via ferrata suomi",
+        "ferrata suomi",
+        "finnish via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["fi", "sv"],
+      "timezone": "Europe/Helsinki",
+      "capital": "Helsinki"
+    }
+  },
+  {
+    "code": "CY",
+    "iso": {
+      "alpha2": "CY",
+      "alpha3": "CYP",
+      "numeric": "196"
+    },
+    "display": {
+      "name_en": "Cyprus",
+      "nativeName": "Κύπρος",
+      "slug": "cyprus"
+    },
+    "geo": {
+      "continent": "Asia",
+      "region": "Western Asia",
+      "center": { "lat": 35.13, "lng": 33.43 },
+      "bbox": {
+        "minLat": 34.57,
+        "maxLat": 35.71,
+        "minLng": 32.27,
+        "maxLng": 34.60
+      }
+    },
+    "search": {
+      "aliases": [
+        "cyprus",
+        "κύπρος",
+        "kypros",
+        "cy",
+        "cypriot mountains",
+        "via ferrata cyprus",
+        "ferrata cyprus",
+        "via ferrata kypr",
+        "ferraty kypr",
+        "kypr",
+        "kyperské hory",
+        "via ferrata κύπρος",
+        "ferrata κύπρος",
+        "cypriot via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["el", "tr"],
+      "timezone": "Asia/Nicosia",
+      "capital": "Nicosia"
+    }
+  },
+  {
+    "code": "MT",
+    "iso": {
+      "alpha2": "MT",
+      "alpha3": "MLT",
+      "numeric": "470"
+    },
+    "display": {
+      "name_en": "Malta",
+      "nativeName": "Malta",
+      "slug": "malta"
+    },
+    "geo": {
+      "continent": "Europe",
+      "region": "Southern Europe",
+      "center": { "lat": 35.94, "lng": 14.38 },
+      "bbox": {
+        "minLat": 35.80,
+        "maxLat": 36.08,
+        "minLng": 14.18,
+        "maxLng": 14.58
+      }
+    },
+    "search": {
+      "aliases": [
+        "malta",
+        "malta",
+        "republic of malta",
+        "mt",
+        "maltese cliffs",
+        "via ferrata malta",
+        "ferrata malta",
+        "via ferrata malta",
+        "ferraty malta",
+        "malta",
+        "maltské útesy",
+        "via ferrata malta",
+        "ferrata malta",
+        "maltese via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["mt", "en"],
+      "timezone": "Europe/Malta",
+      "capital": "Valletta"
+    }
+  },
+  {
+    "code": "US",
+    "iso": {
+      "alpha2": "US",
+      "alpha3": "USA",
+      "numeric": "840"
+    },
+    "display": {
+      "name_en": "United States",
+      "nativeName": "United States",
+      "slug": "united-states"
+    },
+    "geo": {
+      "continent": "North America",
+      "region": "Northern America",
+      "center": { "lat": 39.83, "lng": -98.58 },
+      "bbox": {
+        "minLat": 24.40,
+        "maxLat": 49.38,
+        "minLng": -125.00,
+        "maxLng": -66.93
+      }
+    },
+    "search": {
+      "aliases": [
+        "united states",
+        "united states of america",
+        "usa",
+        "us",
+        "american mountains",
+        "via ferrata united states",
+        "via ferrata usa",
+        "ferrata usa",
+        "via ferrata spojené státy",
+        "ferraty usa",
+        "spojené státy americké",
+        "americké hory",
+        "via ferrata united states of america",
+        "ferrata united states",
+        "american via ferrata"
+      ]
+    },
+    "meta": {
+      "languages": ["en"],
+      "timezone": "America/New_York",
+      "capital": "Washington, D.C."
+    }
+  }
+]
